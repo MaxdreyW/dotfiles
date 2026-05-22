@@ -1,0 +1,14 @@
+[user]
+    name = Max
+    email = maxdrey_wong@yahoo.com
+
+[core]
+    editor = nano
+
+[alias]
+    st = status
+    lg = log --oneline
+    br = branch
+
+[push]
+    defaultBranch = main
