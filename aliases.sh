@@ -1,0 +1,10 @@
+# DevOps aliases — Max
+alias gs='git status'
+alias ga='git add'
+alias gc='git commit -m'
+alias gp='git push'
+alias gl='git log --oneline'
+alias gb='git branch'
+alias ll='ls -alF'
+alias ..='cd ..'
+alias ...='cd ../..'
